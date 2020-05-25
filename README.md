@@ -10,7 +10,7 @@ Pies cover the desk. They spill out onto the floor. Carrier boards for Raspberry
 
 I bet if you have one Raspberry Pi, you've got _at least_ two others, though, and gosh darn it, they all look the same.
 
-This was the situation I found myself it recently, testing an NFS server setup on one of my Raspberry Pis. I needed to plug in a USB hard drive, but ... to which one? Ol' Ligonberry Pi was the chosen host, and I was SSH'd in her, but which actual, _physical_ RPi was she? There was no way of knowing...
+This was the situation I found myself it recently, testing an NFS server setup on one of my Raspberry Pis. I needed to plug in a USB hard drive, but ... to which one? Ol' Lingonberry Pi was the chosen host, and I was SSH'd in her, but which actual, _physical_ RPi was she? There was no way of knowing...
 
 Or was there?
 
