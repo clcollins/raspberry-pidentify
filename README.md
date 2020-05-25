@@ -12,11 +12,10 @@ I bet if you have one Raspberry Pi, you've got _at least_ two others, though, an
 
 This was the situation I found myself it recently, testing an NFS server setup on one of my Raspberry Pis. I needed to plug in a USB hard drive, but ... to which one? Ol' Ligonberry Pi was the chosen host, and I was SSH'd in her, but which actual, _physical_ RPi was she? There was no way of knowing...
 
-![So, so many Rasperry Pis]
+Or was there?
+
 ![Too many Raspberry Pis stacked up in cluster cases](img/cover.jpg "So, so many Raspberry Pis. Which one is Lingonberry?")
 _So, so many Raspberry Pis. Which one is Lingonberry?_
-
-Or was there?
 
 At a previous job I had cause to go to our datacenters to work on servers there, and some of them had this neat feature: an ID button on the front of the server started an LED flashing on both the front and back of the server. If I needed to deal with the other side of the server, I could press the ID button, then walk allllll they way around to the other side of the rack, and still be able to find the right server.
 
